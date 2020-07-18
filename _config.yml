@@ -1,0 +1,21 @@
+# Site settings
+title: BaiatRau
+description: About BaiatRau
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. https://showchat.tk
+
+# User settings
+username: BaiatRau
+user_description: Sunt un inginer software nomad, căutând mereu următoarea provocare; nicio sarcină nu este prea înfricoșătoare și nici prea dificilă.
+
+user_title: Inginer de software
+email: baiatrau.romaniachat@gmail.com
+# twitter_username: lorem_ipsum
+# github_username:  lorem_ipsum
+# gplus_username:  lorem_ipsum
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
